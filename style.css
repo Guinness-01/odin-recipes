@@ -1,0 +1,25 @@
+/* this is the style's for the main webpage of my recipe site */
+
+.food {
+
+    background-color: rgb(222, 152, 135);
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+    
+}
+html {
+
+    background-color: burlywood;
+    
+    
+}
+#title {
+    text-align: center;
+    font-weight: bold;
+    font-family: impact;
+}
+body {
+
+    font-family: cursive,monospace,serif;
+}
